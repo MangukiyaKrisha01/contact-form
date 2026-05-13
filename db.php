@@ -1,8 +1,8 @@
 <?php
 $host = 'localhost';
-$db   = 'contact_db';   // change this if needed
-$user = 'root';          // XAMPP default
-$pass = '';              // XAMPP default (empty)
+$db   = 'contact_db';   
+$user = 'root';          
+$pass = '';              
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
